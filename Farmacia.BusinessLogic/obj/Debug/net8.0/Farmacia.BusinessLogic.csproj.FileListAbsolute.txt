@@ -1,0 +1,17 @@
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\bin\Debug\net8.0\Farmacia.BusinessLogic.deps.json
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\bin\Debug\net8.0\Farmacia.BusinessLogic.dll
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\bin\Debug\net8.0\Farmacia.BusinessLogic.pdb
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\bin\Debug\net8.0\Farmacia.DataAccess.dll
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\bin\Debug\net8.0\Farmacia.Entities.dll
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\bin\Debug\net8.0\Farmacia.DataAccess.pdb
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\bin\Debug\net8.0\Farmacia.Entities.pdb
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\Farmacia.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\Farmacia.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\Farmacia.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\Farmacia.BusinessLogic.AssemblyInfo.cs
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\Farmacia.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\Farmacia.978C2371.Up2Date
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\Farmacia.BusinessLogic.dll
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\refint\Farmacia.BusinessLogic.dll
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\Farmacia.BusinessLogic.pdb
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.BusinessLogic\obj\Debug\net8.0\ref\Farmacia.BusinessLogic.dll

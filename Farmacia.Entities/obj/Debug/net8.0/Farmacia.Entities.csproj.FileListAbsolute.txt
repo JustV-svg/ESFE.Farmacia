@@ -1,0 +1,11 @@
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\bin\Debug\net8.0\Farmacia.Entities.deps.json
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\bin\Debug\net8.0\Farmacia.Entities.dll
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\bin\Debug\net8.0\Farmacia.Entities.pdb
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\obj\Debug\net8.0\Farmacia.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\obj\Debug\net8.0\Farmacia.Entities.AssemblyInfoInputs.cache
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\obj\Debug\net8.0\Farmacia.Entities.AssemblyInfo.cs
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\obj\Debug\net8.0\Farmacia.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\obj\Debug\net8.0\Farmacia.Entities.dll
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\obj\Debug\net8.0\refint\Farmacia.Entities.dll
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\obj\Debug\net8.0\Farmacia.Entities.pdb
+C:\Users\Sharon\source\repos\Farmacia\Farmacia.Entities\obj\Debug\net8.0\ref\Farmacia.Entities.dll

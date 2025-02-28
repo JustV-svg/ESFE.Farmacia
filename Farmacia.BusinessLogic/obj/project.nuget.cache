@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nNgMuoxG8qY=",
+  "dgSpecHash": "q++cnO5Oe70=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rober\\Downloads\\Farmacia\\Farmacia\\Farmacia.BusinessLogic\\Farmacia.BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\rober\\Desktop\\Proyectos\\Farmacia\\Farmacia.BusinessLogic\\Farmacia.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rober\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\8.0.0\\ardalis.specification.entityframeworkcore.8.0.0.nupkg.sha512",
